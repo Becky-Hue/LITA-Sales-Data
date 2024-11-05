@@ -14,7 +14,7 @@
 ------
 
 ### Project Overview 
-This Data Analysis aims at reviewing LITA'S output to the market to determine the company's sales progress and knowing how to adjust to client and economic needs and behaviour. This will help the company know where to improve and adjust. 
+  This Data Analysis aims at reviewing LITA'S output to the market to determine the company's sales progress and knowing how to adjust to client and economic needs and behaviour. This will help the company know where to improve and adjust. 
 ---------
 
 ### Data Sources
