@@ -37,13 +37,12 @@ Total Revenue: $2,101,090
 2. Shirts: With sales of $485,600
 3. Hats: With sales of $316,195
 
-   -
+   -<img width="236" alt="github sales" src="https://github.com/user-attachments/assets/a8c379ff-8b3b-49b2-b0b4-2752c483ff47">
 
-*Regional Performance:*
+Regional Distribution
+ The south has the highest Revenue of $927,820 coming from the sales of Shoes
+ 
 
-1. [Region 1] - $ [insert revenue]
-2. [Region 2] - $ [insert revenue]
-3. [Region 3] - $ [insert revenue]
 
 *Product Distribution:*
 
