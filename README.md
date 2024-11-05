@@ -1,11 +1,52 @@
 # LITA-Sales-Data
-
-
-
-
-
-
 ## DATASET REPORT
+### Project Title: Sales Report
+### Table of Content
+- [Project Overview](project_overview)
+- [Data Sources](data_sources)
+- [Tools Used](tools_used)
+- [Data Cleaning and Preparations](data_cleaning_and_data_preparation)
+- [Explanatory Data Analysis](explanatory_data_analysis)
+- [OVERVIEW](overview)
+- [OBSERVATION](observation)
+- [POSSIBLE CAUSES AND POSSIBLE SOLUTION OF SALES DECLINE](possible_causes_and_possible_solution_of_sales_decline)
+- [RECOMMENDATIONS](recommendation)
+------
+
+### Project Overview 
+This Data Analysis aims at reviewing LITA'S output to the market to determine the company's sales progress and knowing how to adjust to client and economic needs and behaviour. This will help the company know where to improve and adjust. 
+---------
+
+### Data Sources
+The primary source of Data used here is a confidential daaset provided by LITA'S Sales department and can only be accessed with authorization Mrs. Folu Adeboye.
+------
+
+### Tools Used
+- Microsoft Excel  [Download Here](https://www.microsoft.com)
+  1. For Data  Cleaning
+  2. For Analysis
+  3. For Data visualization
+    
+- SQL  - Structured Query Language for Querying of Data
+- Power BI - For more data Visualizations
+-  GitHub for Portfolio Building
+--------
+
+### Data Cleaning and Preparations
+In the initial phase of data cleaning, we perform the following action;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+--------
+   
+### Explanatory Data Analysis
+This will provide answers to some questions about the data such as;
+- Top-Selling products
+- Regional distribution
+- Total Revenue
+- Causes of Sales decline
+- What to do to prevent a decline in sales
+-------
 
 ### OVERVIEW
 
@@ -17,8 +58,8 @@ Total Orders: 9921
 
 Unique Customers: 20
 
-*Top-Selling Products:*
-
+#### Top-Selling Products
+  They include:
 1. Shoes: With sales  of $613,380
 2. Shirts: With sales of $485,600
 3. Hats: With sales of $316,195
@@ -73,7 +114,7 @@ To address the sales decrease, we can consider:
 
 
 
-### Recommendations:
+### RECOMMENDATIONS:
 
 1. Focus on top-selling products to increase revenue.
 2. Target high-value customers for loyalty programs.
