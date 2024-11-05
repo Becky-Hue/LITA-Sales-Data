@@ -2,15 +2,15 @@
 ## DATASET REPORT
 ### Project Title: Sales Report
 ### Table of Content
-- [Project Overview](project_overview)
-- [Data Sources](data_sources)
-- [Tools Used](tools_used)
-- [Data Cleaning and Preparations](data_cleaning_and_data_preparation)
-- [Explanatory Data Analysis](explanatory_data_analysis)
-- [OVERVIEW](overview)
-- [OBSERVATION](observation)
-- [POSSIBLE CAUSES AND POSSIBLE SOLUTION OF SALES DECLINE](possible_causes_and_possible_solution_of_sales_decline)
-- [RECOMMENDATIONS](recommendation)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+- [Explanatory Data Analysis](#explanatory-data-analysis)
+- [OVERVIEW](#overview)
+- [OBSERVATION](#observation)
+- [POSSIBLE CAUSES AND POSSIBLE SOLUTION OF SALES DECLINE](#possible-causes-and-possible-solution-of-sales-decline)
+- [RECOMMENDATIONS](#recommendations)
 ------
 
 ### Project Overview 
