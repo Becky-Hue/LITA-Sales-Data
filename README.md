@@ -19,17 +19,17 @@
 
 
 
-*Dataset Analysis Report*
+## DATASET REPORT
 
-*Overview*
+### OVERVIEW
 
-The dataset contains  9921 records of customer orders. The data includes Customer ID, Order ID, Product, Region, Order Date, Quantity, and Unit Price. from the dataset provided, the followings were summarized:
+The dataset contains  9921 records of customer orders. The data includes Customer ID, Order ID, Product, Region, Order Date, Quantity, and Unit Price. From the dataset provided, the followings were summarized:
 
 Total Revenue: $2,101,090
 
-*Total Orders: 9921
+Total Orders: 9921
 
-*Unique Customers: 20
+Unique Customers: 20
 
 *Top-Selling Products:*
 
@@ -40,34 +40,19 @@ Total Revenue: $2,101,090
    -<img width="236" alt="github sales" src="https://github.com/user-attachments/assets/a8c379ff-8b3b-49b2-b0b4-2752c483ff47">
 
 Regional Distribution
- The south has the highest Revenue of $927,820 coming from the sales of Shoes
- 
+ The south has the highest Revenue of $927,820 coming from the sales of Shoes.
+
+ -<img width="234" alt="github sales 2" src="https://github.com/user-attachments/assets/18e5b53d-e645-409f-aa44-cf3408667d51">
+
+ -<img width="273" alt="github sales 3" src="https://github.com/user-attachments/assets/d296fc28-0947-43bb-ac7b-2476780faa74">
+ ------
+
+ ### OBSERVATION
+   In general, we can see that there is a decline of sales in the year 2024. Our analysis of the sales data for 2023 and 2024 reveals a notable difference in orders and sales between the two years. Specifically, 2023 experienced 19.98% more orders than 2024, while sales were only 5.22% higher.
+
+   -
 
 
-*Product Distribution:*
-
-1. [Product 1] - [insert percentage]
-2. [Product 2] - [insert percentage]
-3. [Product 3] - [insert percentage]
-
-*Customer Insights:*
-
-1. Top 3 customers by revenue:
-    - Customer 1 - $ [insert revenue]
-    - Customer 2 - $ [insert revenue]
-    - Customer 3 - $ [insert revenue]
-2. Average orders per customer: [insert average orders]
-
-*Time-Based Analysis:*
-
-1. Monthly sales trend:
-    - [Month 1] - $ [insert revenue]
-    - [Month 2] - $ [insert revenue]
-    - [Month 3] - $ [insert revenue]
-2. Quarterly sales trend:
-    - [Quarter 1] - $ [insert revenue]
-    - [Quarter 2] - $ [insert revenue]
-    - [Quarter 3] - $ [insert revenue]
 
 *Recommendations:*
 
